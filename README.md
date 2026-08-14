@@ -35,6 +35,12 @@ and help users verify information.
 | 4 | ML Model Training | Done |
 | 5 | Web App Deployment | Done |
 
+## Key Features
+- Paste any news article to detect if it is Real or Fake
+- Enter a news URL to automatically fetch and analyze the article
+- Confidence score shown with every prediction
+- Built with Random Forest model achieving 99.79% accuracy
+
 ## Results
 - Logistic Regression Accuracy: 98.79%
 - Random Forest Accuracy: 99.79%
